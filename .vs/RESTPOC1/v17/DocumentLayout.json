@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\darsh\\OneDrive\\Desktop\\Work_palace\\RESTPOC1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95B13AB7-E633-4EAB-9825-73BEB8A1569C}|RESTPOC1\\RESTPOC1.csproj|c:\\users\\darsh\\onedrive\\desktop\\work_palace\\restpoc1\\restpoc1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B13AB7-E633-4EAB-9825-73BEB8A1569C}|RESTPOC1\\RESTPOC1.csproj|solutionrelative:restpoc1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B13AB7-E633-4EAB-9825-73BEB8A1569C}|RESTPOC1\\RESTPOC1.csproj|C:\\Users\\darsh\\OneDrive\\Desktop\\Work_palace\\RESTPOC1\\restpoc1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B13AB7-E633-4EAB-9825-73BEB8A1569C}|RESTPOC1\\RESTPOC1.csproj|solutionrelative:restpoc1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B13AB7-E633-4EAB-9825-73BEB8A1569C}|RESTPOC1\\RESTPOC1.csproj|C:\\Users\\darsh\\OneDrive\\Desktop\\Work_palace\\RESTPOC1\\restpoc1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B13AB7-E633-4EAB-9825-73BEB8A1569C}|RESTPOC1\\RESTPOC1.csproj|solutionrelative:restpoc1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B13AB7-E633-4EAB-9825-73BEB8A1569C}|RESTPOC1\\RESTPOC1.csproj|C:\\Users\\darsh\\OneDrive\\Desktop\\Work_palace\\RESTPOC1\\restpoc1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B13AB7-E633-4EAB-9825-73BEB8A1569C}|RESTPOC1\\RESTPOC1.csproj|solutionrelative:restpoc1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B13AB7-E633-4EAB-9825-73BEB8A1569C}|RESTPOC1\\RESTPOC1.csproj|C:\\Users\\darsh\\OneDrive\\Desktop\\Work_palace\\RESTPOC1\\restpoc1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95B13AB7-E633-4EAB-9825-73BEB8A1569C}|RESTPOC1\\RESTPOC1.csproj|solutionrelative:restpoc1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B13AB7-E633-4EAB-9825-73BEB8A1569C}|RESTPOC1\\RESTPOC1.csproj|C:\\Users\\darsh\\OneDrive\\Desktop\\Work_palace\\RESTPOC1\\restpoc1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B13AB7-E633-4EAB-9825-73BEB8A1569C}|RESTPOC1\\RESTPOC1.csproj|solutionrelative:restpoc1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B13AB7-E633-4EAB-9825-73BEB8A1569C}|RESTPOC1\\RESTPOC1.csproj|C:\\Users\\darsh\\OneDrive\\Desktop\\Work_palace\\RESTPOC1\\restpoc1\\restpoc1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95B13AB7-E633-4EAB-9825-73BEB8A1569C}|RESTPOC1\\RESTPOC1.csproj|solutionrelative:restpoc1\\restpoc1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\darsh\\OneDrive\\Desktop\\Work_palace\\RESTPOC1\\RESTPOC1\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "RESTPOC1\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\darsh\\OneDrive\\Desktop\\Work_palace\\RESTPOC1\\RESTPOC1\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "RESTPOC1\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowEMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:37:09.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\darsh\\OneDrive\\Desktop\\Work_palace\\RESTPOC1\\RESTPOC1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RESTPOC1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\darsh\\OneDrive\\Desktop\\Work_palace\\RESTPOC1\\RESTPOC1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "RESTPOC1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:36:38.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\darsh\\OneDrive\\Desktop\\Work_palace\\RESTPOC1\\RESTPOC1\\Program.cs",
+              "RelativeDocumentMoniker": "RESTPOC1\\Program.cs",
+              "ToolTip": "C:\\Users\\darsh\\OneDrive\\Desktop\\Work_palace\\RESTPOC1\\RESTPOC1\\Program.cs",
+              "RelativeToolTip": "RESTPOC1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:29:09.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\darsh\\OneDrive\\Desktop\\Work_palace\\RESTPOC1\\RESTPOC1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "RESTPOC1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\darsh\\OneDrive\\Desktop\\Work_palace\\RESTPOC1\\RESTPOC1\\Models\\Product.cs",
+              "RelativeToolTip": "RESTPOC1\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:27:25.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\darsh\\OneDrive\\Desktop\\Work_palace\\RESTPOC1\\RESTPOC1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RESTPOC1\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\darsh\\OneDrive\\Desktop\\Work_palace\\RESTPOC1\\RESTPOC1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RESTPOC1\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:18:41.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RESTPOC1",
+              "DocumentMoniker": "C:\\Users\\darsh\\OneDrive\\Desktop\\Work_palace\\RESTPOC1\\RESTPOC1\\RESTPOC1.csproj",
+              "RelativeDocumentMoniker": "RESTPOC1\\RESTPOC1.csproj",
+              "ToolTip": "C:\\Users\\darsh\\OneDrive\\Desktop\\Work_palace\\RESTPOC1\\RESTPOC1\\RESTPOC1.csproj",
+              "RelativeToolTip": "RESTPOC1\\RESTPOC1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T12:18:05.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\darsh\\OneDrive\\Desktop\\Work_palace\\RESTPOC1\\RESTPOC1\\appsettings.json",
+              "RelativeDocumentMoniker": "RESTPOC1\\appsettings.json",
+              "ToolTip": "C:\\Users\\darsh\\OneDrive\\Desktop\\Work_palace\\RESTPOC1\\RESTPOC1\\appsettings.json",
+              "RelativeToolTip": "RESTPOC1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T12:13:33.275Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

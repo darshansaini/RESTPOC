@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RESTPOC1.props" />
+</Project>
